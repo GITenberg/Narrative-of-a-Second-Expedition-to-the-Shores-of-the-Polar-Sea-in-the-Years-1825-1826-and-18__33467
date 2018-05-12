@@ -20,6 +20,8 @@ creator:
     - http://en.citizendium.org/wiki/John_Franklin
     - http://en.wikipedia.org/wiki/John_Franklin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33467#Narrative-of-a-Second-Expedition-to-the-Shores-of-the-Polar-Sea-in-the-Years-1825-1826-and-18_
 gutenberg_issued: '2010-08-19'
 gutenberg_type: Text
 identifiers:
